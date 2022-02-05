@@ -1,0 +1,41 @@
+{
+
+  "name": "Название источника",
+
+  "mods": [
+
+    {
+
+      "id": "mod-id",
+
+      "name": "Название мода",
+
+      "version": "1.0",
+
+      "description": "Описание мода",
+
+      "game_version": "0.16",
+
+      "file_name": "mod_archive.zip"
+
+    },
+
+    {
+
+      "id": "mod-id-2",
+
+      "name": "Название другого мода",
+
+      "version": "2.0",
+
+      "description": "Описание еще одного мода",
+
+      "game_version": "0.16",
+
+      "file_name": "another_mod_archive.zip"
+
+    }
+
+  ]
+
+}
